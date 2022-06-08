@@ -10,7 +10,7 @@ function App() {
       {/* <Header title="Título do APP" />
       <CalculatorIMC /> */}
 
-      <Form title="props" />
+      {/* <Form title="props" /> */}
 
       <Login name={'Marcelo'} />
 
